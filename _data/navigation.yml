@@ -1,0 +1,25 @@
+main:
+  - title: "About 👨🏻‍💻"
+    url: /about/
+  - title: "Newsletter 📰"
+    url: /newsletter/
+  - title: "Courses 👨🏻‍🏫"
+    url: /courses/
+  - title: "Talks 🙊"
+    url: /talks/
+  - title: "Guest posts"
+    url: /guest-posts/
+  - title: "Posts by categories"
+    url: /posts-by-categories/
+  - title: "Posts by tags"
+    url: /posts-by-tags/
+  - title: "Archives 📟"
+    url: /archives/
+  - title: "Learn Test automation 🦾"
+    url: /learn/
+  - title: "Ask me anything (AMA) 🗣"
+    url: /ama/
+  - title: "Wanna support me? 🤝🏼"
+    url: /support/
+  - title: "Book recommendations 📓"
+    url: /books/
